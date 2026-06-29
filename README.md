@@ -2,7 +2,7 @@
 
 A terminal-themed portfolio for **Pushkar Prabhath Rayana** — AI/ML engineer, IEEE-published researcher, and builder of agentic systems.
 
-Live: **https://pushkar-dev.vercel.app** *(or whatever production domain Vercel assigns)*
+Live: **[https://pushkar-dev.vercel.app](https://pushk.vercel.app/)** 
 
 ---
 

@@ -67,7 +67,7 @@ export function AboutSection() {
     "focus": "${PROFILE.focus}"
   },
   "interests": [
-    "${PROFILE.interests.join('",\\\\n    "')}"
+${PROFILE.interests.map(i => `    "${i}"`).join(',\n')}
   ],
   "philosophy": "${PROFILE.philosophy}"
 }`}</code>
